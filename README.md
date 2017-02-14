@@ -1,5 +1,5 @@
 # Leaflet.curve
-A [Leaflet](http://leafletjs.com) plugin for drawing Bézier curves and other complex shapes. ([DEMO](http://elfalem.github.io/Leaflet.curve/))
+A [Leaflet](http://leafletjs.com) plugin for drawing Bézier curves and other complex shapes. ([DEMO](http://SirenHound.github.io/Leaflet.curve/))
 
 ### Usage
 Include the plugin after Leaflet:
